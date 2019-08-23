@@ -4,7 +4,7 @@
 
 Implement a computer version of the game described in phase 1 and then phase 2. The code should be production quality.
 
-In a real scenario you would probably have questions about the requirements. For this exercise, please some reasonable assumption and document it.
+In a real scenario you would probably have questions about the requirements. For this exercise, please make some reasonable assumption and document it.
 
 
 ### Phase 1: Basic roulette ruse
