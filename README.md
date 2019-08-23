@@ -35,7 +35,7 @@
   * 5 _See the future_ cards
   * 4 _Skip_ cards
   * 37 blank cards
-* _See the future_ card: allows a player to privately view the top three cards of the draw pile.
+* _See the future_ card: allows a player to reveal the top three cards of the draw pile.
 * _Skip_ card: allows a player to skip drawing one card from the draw pile.
 * The players will start with eight cards in their hand. The number of cards in the hand will vary during the game, without limits.
 * Game set up:
