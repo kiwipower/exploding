@@ -1,6 +1,7 @@
 # exploding
 
 Unattended test for candidates
+MAX 2 hours to be spent
 
 ## Requirements
 
