@@ -2,25 +2,31 @@
 
 Unattended test for candidates
 
-MAX 2 hours to be spent
+Please complete iterations 1 and 2. Aim to spend about a couple of hours.
 
 ## Requirements
 
-Phase 1 and 2 below describe a card game. Please implement a computer version to allow a user to play the game. An unsophisticated command-line UI will suffice, eg entering 'd' for drawing a card, etc.
+Please:
+* Iterations 1 and 2 below describe a card game. Implement in Scala a computer version to allow a user to play the game. 
+* Cover full scope including iterations 1 and 2.
+* Include a README with any assumptions made and instructions to play (eg _Run the game with `sbt run`_.
+* An unsophisticated command-line UI will suffice, eg entering 'd' for drawing a card, etc.
+* Break down the code into small focused modules.
+* Fully test the application, using unit and integration tests as appropriate.
+* The implementation should be production quality, reflecting what you would like to see deployed in the real world.
 
-The implementation should be production quality, reflecting what you would like to see deployed in the real world.
-
-You will probably have questions about the requirements. For this exercise, please make some reasonable assumptions and document them.
 
 
-### Phase 1: Basic roulette ruse
+### Iteration 1: Basic roulette ruse
 
 * There are one player and 47 cards. One of the cards is explosive and the rest are blank.
 * All the cards are shuffled and arranged face down in a draw pile.
 * The player draws cards one after the other. If the card is blank, it has no effect, and can be discarded. If the card is explosive, the player loses.
 
 
-### Phase 2: Defuse cards
+### Iteration 2: Defuse cards
+
+Enhance the game:
 
 * We have three additional _Defuse_ cards, making a total of 50 in the deck.
 * Game set up:
