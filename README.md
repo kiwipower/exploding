@@ -9,7 +9,7 @@ Please complete iterations 1 and 2. Aim to spend about a couple of hours.
 Please:
 * Iterations 1 and 2 below describe a card game. Implement in Scala a computer version to allow a user to play the game. 
 * Cover full scope including iterations 1 and 2.
-* Include a README with any assumptions made and instructions to play (eg _Run the game with `sbt run`_.
+* Include a README with any assumptions made and instructions to play (eg _Run the game with `sbt run`_).
 * An unsophisticated command-line UI will suffice, eg entering 'd' for drawing a card, etc.
 * Break down the code into small focused modules.
 * Fully test the application, using unit and integration tests as appropriate.
