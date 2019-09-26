@@ -34,8 +34,9 @@ Enhance the game:
   2. Put the remaining two defuse cards with the rest in the draw pile, shuffle and arrange face down.
 * The player's turn consists of two steps:
    1. Draw one card
-   2. There are three alternatives:
+   2. There are four alternatives:
       * Blank card: the turn finishes.
+      * Defuse card: add the defuse card to the player's hand and the turn finishes.
       * Explosive card, if the player has a defuse card: 
         1. Discard the defuse card onto the discard pile.
         2. Return the explosive card to the draw pile.
