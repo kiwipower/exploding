@@ -1,14 +1,13 @@
 # exploding
 
-Unattended test for candidates
+Unattended test for candidates.
 
-Please complete iterations 1 and 2. Aim to spend about a couple of hours.
+Please complete iterations 1 and 2. Aim to spend a couple of hours.
 
 ## Requirements
 
-Please:
 * Iterations 1 and 2 below describe a card game. Implement in Scala a computer version to allow a user to play the game. 
-* Cover full scope including iterations 1 and 2.
+* Cover the full scope of both iterations.
 * Include a README with any assumptions made and instructions to play (eg _Run the game with `sbt run`_).
 * An unsophisticated command-line UI will suffice, eg entering 'd' for drawing a card, etc.
 * Break down the code into small focused modules.
@@ -19,16 +18,19 @@ Please:
 
 ### Iteration 1: Basic roulette ruse
 
-* There are one player and 47 cards. One of the cards is explosive and the rest are blank.
+* There is one player and 17 cards. 
+* One of the cards is explosive and the rest are blank.
 * All the cards are shuffled and arranged face down in a draw pile.
-* The player draws cards one after the other. If the card is blank, it has no effect, and can be discarded. If the card is explosive, the player loses.
+* The player draws cards one after the other. 
+* If the card is blank, it has no effect, and can be discarded. 
+* If the card is explosive, the player loses.
 
 
 ### Iteration 2: Defuse cards
 
 Enhance the game:
 
-* We have three additional _Defuse_ cards, making a total of 50 in the deck.
+* Add three _Defuse_ cards to the deck, making a total of 20.
 * Game set up:
   1. Give one defuse card to the player.
   2. Put the remaining two defuse cards with the rest in the draw pile, shuffle and arrange face down.
@@ -46,7 +48,7 @@ Enhance the game:
 
 ## Extension ideas
 
-As part of a face to face interview we like to seat together, discuss your submission and build up on it. We might pick from these examples below, or something else that we might find interesting in your code. _These are just examples in case you would like to think about them. They are not part of the unattended submission._
+As part of a face to face interview, we will pair with you to discuss your submission and build up on it. We will discuss the extension examples below, or may decide to work on something else that we find interesting in your code. _These are just examples in case you would like to think about them. They are not part of the unattended submission._
 
 * Allowing the user to configure the number of cards of each type in the deck
 * Allowing the user to configure the number of players
