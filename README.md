@@ -2,7 +2,9 @@
 
 Unattended test for candidates.
 
-Please complete iterations 1 and 2. Aim to spend a couple of hours.
+Please complete iterations 1 and 2.
+
+Focus on making your code clear and testable.
 
 ## Requirements
 
