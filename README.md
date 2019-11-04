@@ -9,6 +9,7 @@ Focus on making your code clear and testable.
 ## Requirements
 
 * Iterations 1 and 2 below describe a card game. Implement in Scala a computer version to allow a user to play the game. 
+* Interation 1 is the basic functionality after that is complete you can then extending it with the functionality in iteration 2 as opposed to treating them as separate modules
 * Cover the full scope of both iterations.
 * Include a README with any assumptions made and instructions to play (eg _Run the game with `sbt run`_).
 * An unsophisticated command-line UI will suffice, eg entering 'd' for drawing a card, etc.
